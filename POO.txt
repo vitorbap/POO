@@ -1,0 +1,25 @@
+POO
+
+Abstração- é uma forma de reduzir a complexidade e tornar o projeto e a implementação mais eficientes em sistemas complexos de software. Ela esconde a complexidade técnica de um sistema por trás de uma APIs mais simples.
+
+Objeto é uma cópia de uma classe.
+
+Static - Campos estaticos só podem ser acessados pela classe e campos não estaticos só podem ser acessados por objetos da Classe.
+
+Construtor- Construtor em linguagens de programação orientadas a objeto é um método chamado assim que uma nova instância do objeto for criada. Tal método geralmente é responsável pela alocação de recursos necessários ao funcionamento do objeto além da definição inicial das variáveis de estado (atributos).
+
+Encapsulamento- Encapsulamento é o processo de esconder todos os detalhes de um objeto que não contribuem para as suas características essenciais.
+
+Herança- Herança é um princípio de orientação a objetos, que permite que classes compartilhem atributos e métodos, através de "heranças". Ela é usada na intenção de reaproveitar código ou comportamento generalizado ou especializar operações ou atributos.
+
+Protected- protected. Esse modificador indica que somente a própria classe e as classes que herdam dela podem acessar o atributo ou método. Dessa forma, ao instanciar a classe os elementos protegidos (protected) não podem ser acessados diretamente, como ocorre com o public.
+
+Polimorfismo- Polimorfismo é a característica única de linguagens orientadas a objetos que permite que diferentes objetos respondam a mesma mensagem cada um a sua maneira. Em termos de programação, polimorfismo representa a capacidade de uma única referência invocar métodos diferentes, dependendo do seu conteúdo.
+
+Polimorfismo de sobrecarga- O polimorfismo de compilação, frequentemente chamado de sobrecarga de métodos, ocorre quando dois ou mais métodos na mesma classe possuem o mesmo nome, mas diferem em seus parâmetros — seja no número, no tipo ou na ordem deles.
+
+Polimorfismo de sobreposição- Polimorfismo de sobreposição é a redefinição de métodos em classes descendentes. Ou seja, um método de uma classe filha com o mesmo nome de um método de uma classe mãe irá sobrepor esse último.
+
+Interface- é como uma classe base abstrata que contém apenas membros abstratos. Qualquer classe ou struct que implemente uma interface deve implementar todos os seus membros. 
+
+Classes abstratas- Uma classe abstrata é uma classe que não pode ser instanciada diretamente, ou seja, você não pode criar objetos a partir dela. Ela serve como um modelo para outras classes que a herdam. Uma classe abstrata pode conter métodos abstratos (sem implementação) e métodos concretos (com implementação).
