@@ -1,0 +1,7 @@
+C:\Users\saovbapt\source\repos\POO1\POO1\bin\Debug\POO1.exe.config
+C:\Users\saovbapt\source\repos\POO1\POO1\bin\Debug\POO1.exe
+C:\Users\saovbapt\source\repos\POO1\POO1\bin\Debug\POO1.pdb
+C:\Users\saovbapt\source\repos\POO1\POO1\obj\Debug\POO1.csproj.AssemblyReference.cache
+C:\Users\saovbapt\source\repos\POO1\POO1\obj\Debug\POO1.csproj.CoreCompileInputs.cache
+C:\Users\saovbapt\source\repos\POO1\POO1\obj\Debug\POO1.exe
+C:\Users\saovbapt\source\repos\POO1\POO1\obj\Debug\POO1.pdb
